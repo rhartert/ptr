@@ -26,7 +26,7 @@ func respond() Response {
 ```
 
 The `ptr.Value` function provides a convenient way to deal with `nil`
-pointer by returning the zero value of the pointer's type
+pointers by returning the zero value of the pointer's type
 
 ```go
 var ptr *int
